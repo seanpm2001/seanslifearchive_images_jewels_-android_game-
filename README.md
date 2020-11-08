@@ -41,13 +41,15 @@
 
 > [07.4 - Active pull requests](#Active-pull-requests)
 
-[08.0 - Contributing](#Contributing)
+[08.0 - Resources](#Resources)
 
-[09.0 - About README](#About-README)
+[09.0 - Contributing](#Contributing)
 
-[10.0 - README Version history](#README-version-history)
+[10.0 - About README](#About-README)
 
-[11.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -58,11 +60,13 @@ The module for my life story project that contains my Jewels gameplay images.
 
 ## About
 
-See above. This repository hosts all my daily Jewels session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=org.mhgames.jewels&hl=en_US&gl=US)
+See above. This repository hosts all my daily Jewels session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=org.mhgames.jewels&hl=en_US&gl=US) there is a version available for iOS called iJewels. As of November 8th 2020, it no longer exists.
 
-These daily pictures are to be used for progress monitoring, but can also be used as stock images. 
+These daily pictures are to be used for progress monitoring, but can also be used as stock images.
 
 I started playing Jewels all the way back in the fall of 2009. It was my first Android game. I remember playing it during my vacation in Alaska.
+
+I started playing the game again in September 2020 during my 2020 Cannon Beach Vacation. My current goal is to max out the score in zen mode. As of November 7th 2020, I am 45.22% to the goal, with a score of 4522420. I am hoping an extra digit doesn't get added once I reach a score of 9999990.
 
 ***
 
@@ -84,7 +88,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 210 commits (As of Sunday, November 8th 2020 at 3:30 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 212 commits (As of Sunday, November 8th 2020 at 3:43 pm)
 
 > * 2. No other contributers.
 
@@ -110,6 +114,22 @@ None at the moment
 
 ***
 
+## Resources
+
+Here are some other resources for this project:
+
+[Project language file](LANG.rb)
+
+[iJewels, the Apple version of Jewels (no longer exists)](https://apps.apple.com)
+
+[Download an APK of Jewels using APKPure](https://apkpure.com/jewels/org.mhgames.jewels)
+
+[Download the APK of Jewels through my APK collection repository](https://github.com/seanpm2001/SeansLifeArchive_Extras_APK-Archive/tree/main/APK_Collection/Jewels)
+
+No other resources at the moment.
+
+***
+
 ## Contributing
 
 Contributing is not allowed for this project, as it is a personal project.
@@ -122,9 +142,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Sunday, November 8th 2020 at 3:30 pm)`
+File version: `2 (Sunday, November 8th 2020 at 3:43 pm)`
 
-Line count: `0,182`
+Line count: `0,230`
 
 ***
 
@@ -164,13 +184,41 @@ Version 1 (Sunday, November 8th 2020 at 3:30 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Sunday, November 8th 2020 at 3:43 pm)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
