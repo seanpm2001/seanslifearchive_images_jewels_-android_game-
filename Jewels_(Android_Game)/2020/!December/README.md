@@ -11,4 +11,8 @@ I am really going to miss this game. It has been really fun lately, and my admir
 
 I will have to play this game again in a virtual machine in the future. It has been fun.
 
+# Edit 1
+
+Well, nevermind. I will keep playing this game for as long as I can, as the score just keeps going up. I enjoy playing, and I will continue to play daily.
+
 ***
