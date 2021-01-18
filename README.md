@@ -29,27 +29,29 @@
 
 [05.0 - Version history](#Version-history)
 
-[06.0 - Contributers](#Contributers)
+[06.0 - Software status](#Software-status)
 
-[07.0 - Issues](#Issues)
+[07.0 - Contributers](#Contributers)
 
-> [07.1 - Current issues](#Current-issues)
+[08.0 - Issues](#Issues)
 
-> [07.2 - Past issues](#Past-issues)
+> [08.1 - Current issues](#Current-issues)
 
-> [07.3 - Past pull requests](#Past-pull-requests)
+> [08.2 - Past issues](#Past-issues)
 
-> [07.4 - Active pull requests](#Active-pull-requests)
+> [08.3 - Past pull requests](#Past-pull-requests)
 
-[08.0 - Resources](#Resources)
+> [08.4 - Active pull requests](#Active-pull-requests)
 
-[09.0 - Contributing](#Contributing)
+[09.0 - Resources](#Resources)
 
-[10.0 - About README](#About-README)
+[10.0 - Contributing](#Contributing)
 
-[11.0 - README Version history](#README-version-history)
+[11.0 - About README](#About-README)
 
-[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[12.0 - README Version history](#README-version-history)
+
+[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -78,9 +80,21 @@ I started playing the game again in September 2020 during my 2020 Cannon Beach V
 
 ## Version history
 
-Unavailable
+[Version 1 (Milestone 5 Version 1.0A (M5V1.0A))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0A) - 526 commits - January 1st 2021
+
+[Version 2 (Milestone 5 Version 1.0B (M5V1.0B))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0B) - 633 commits - January 1st 2021
 
 [More versions coming soon](https://www.example.com)
+
+***
+
+## Software status
+
+All of my works are free from restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works. This project does not contain any DRM
+
+![DRM-free_label.en.svg](DRM-free_label.en.svg)
+
+This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
 ***
 
@@ -88,7 +102,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 212 commits (As of Sunday, November 8th 2020 at 3:43 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 758 commits (As of Sunday, January 17th 2021 at 7:17 pm)
 
 > * 2. No other contributers.
 
@@ -134,7 +148,7 @@ No other resources at the moment.
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -142,9 +156,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Sunday, November 8th 2020 at 3:43 pm)`
+File version: `3 (Sunday, January 17th 2021 at 7:17 pm)`
 
-Line count: `0,230`
+Line count: `0,254`
 
 ***
 
@@ -204,11 +218,21 @@ Version 2 (Sunday, November 8th 2020 at 3:43 pm)
 
 > * No other changes in version 2
 
-Version 3 (coming soon)
+Version 3 (Sunday, January 17th 2021 at 7:17 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the index
+
+> * Updated the file info section
+
+> * Optimized the contributing section
+
+> * Added a software status section, with a DRM free sticker and message
+
+> * Updated the contributers section
+
+> * Added links and info for the first 2 releases
 
 > * No other changes in version 3
 
