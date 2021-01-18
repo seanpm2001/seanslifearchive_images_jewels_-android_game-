@@ -112,7 +112,9 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 ### Current issues
 
-None at the moment
+* [1: December 31st data uploaded incorrectly (and how to fix similar errors) #1 ](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/1)
+
+* No other current issues
 
 ### Past issues
 
@@ -133,6 +135,8 @@ None at the moment
 Here are some other resources for this project:
 
 [Project language file](LANG.rb)
+
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/discussions)
 
 [iJewels, the Apple version of Jewels (no longer exists)](https://apps.apple.com)
 
@@ -156,9 +160,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `3 (Sunday, January 17th 2021 at 7:17 pm)`
+File version: `4 (Sunday, January 17th 2021 at 7:21 pm)`
 
-Line count: `0,254`
+Line count: `0,282`
 
 ***
 
@@ -234,15 +238,39 @@ Version 3 (Sunday, January 17th 2021 at 7:17 pm)
 
 > * Added links and info for the first 2 releases
 
+> * Updated the file version history section
+
 > * No other changes in version 3
 
-Version 4 (coming soon)
+Version 4 (Sunday, January 17th 2021 at 7:21 pm)
+
+> Changes:
+
+> * Quick update: added a link to the GitHub discussions and the first issue
+
+> * Updated the index
+
+> * Updated the file info section
+
+> * Updated the file version history section
+
+> * No other changes in version 4
+
+Version 5 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 4
+> * No other changes in version 5
+
+Version 6 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
