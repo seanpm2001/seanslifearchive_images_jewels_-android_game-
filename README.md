@@ -47,11 +47,13 @@
 
 [10.0 - Contributing](#Contributing)
 
-[11.0 - About README](#About-README)
+[11.0 - End of life (Monday, January 18th 2021)](#EOL)
 
-[12.0 - README Version history](#README-version-history)
+[12.0 - About README](#About-README)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[13.0 - README Version history](#README-version-history)
+
+[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -70,6 +72,8 @@ I started playing Jewels all the way back in the fall of 2009. It was my first A
 
 I started playing the game again in September 2020 during my 2020 Cannon Beach Vacation. My current goal is to max out the score in zen mode. As of November 7th 2020, I am 45.22% to the goal, with a score of 4522420. I am hoping an extra digit doesn't get added once I reach a score of 9999990.
 
+I continued to play for over half a month, finally retiring on January 18th 2021 (although the last session was on January 17th 2021) I had to quit, as it didn't seem applicable anymore, and my old device was getting too damaged to keep going.
+
 ***
 
 ## Wiki
@@ -80,11 +84,15 @@ I started playing the game again in September 2020 during my 2020 Cannon Beach V
 
 ## Version history
 
-[Version 1 (Milestone 5 Version 1.0A (M5V1.0A))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0A) - 526 commits - January 1st 2021
+[Version 1 (Milestone 5 Version 1.0A (M5V1.0A))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0A) - 526 commits - Friday, January 1st 2021 at 7:39 pm
 
-[Version 2 (Milestone 5 Version 1.0B (M5V1.0B))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0B) - 633 commits - January 1st 2021
+[Version 2 (Milestone 5 Version 1.0B (M5V1.0B))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0B) - 633 commits - Friday, January 1st 2021 at 8:13 pm
 
-[More versions coming soon](https://www.example.com)
+[Version 3 (Milestone 5 Version 1.0.1A (M5V1.0.1A))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0.1A) - 761 commits - Monday, January 18th 2021 at 6:42 pm
+
+[Version 4 (Milestone 5 Version 1.0.1B (M5V1.0.1B))](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/releases/tag/M5V1.0.1B) - 779 commits - Monday, January 18th 2021 at 6:48 pm
+
+**Support for this repository ended on Monday, January 18th 2021. Support may resume in the future.** [See EoL](#EOL)
 
 ***
 
@@ -102,7 +110,7 @@ This sticker is supported by the Free Software Foundation. I never intend to inc
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 758 commits (As of Sunday, January 17th 2021 at 7:17 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 782 commits (As of Monday, January 18th 2021 at 7:01 pm)
 
 > * 2. No other contributers.
 
@@ -156,13 +164,25 @@ Contributing is not allowed for this project, as it is a personal project.
 
 ***
 
+## EOL
+
+[This is a plain text copy of the discussion post for the end of life of support for this repository. You can view the original discussion here](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/discussions/3)
+
+**Device retired (January 18th 2021)**
+
+I have now officially retired my old Samsung Galaxy S7 edge, and thus I have discontinued my Jewels session. The device is not operational enough to continue playing, as the power button required to take screenshots and power the device on is too difficult to press now, and no modern device supports the game. Unfortunately, I have now stopped playing. It is going to be a little difficult for me for a while, but I should get used to it. I still intend to play the game in an Android virtual machine in the future.
+
+I may still make updates to this repository from time to time until then. Although, I am not returning to this game for a while.
+
+***
+
 ## About README
 
 File type: `Markdown (*.md)`
 
-File version: `4 (Sunday, January 17th 2021 at 7:21 pm)`
+File version: `5 (Monday, January 18th 2021 at 7:01 pm)`
 
-Line count: `0,282`
+Line count: `0,312`
 
 ***
 
@@ -256,19 +276,29 @@ Version 4 (Sunday, January 17th 2021 at 7:21 pm)
 
 > * No other changes in version 4
 
-Version 5 (coming soon)
+Version 5 (Monday, January 18th 2021 at 7:01 pm)
 
 > Changes:
 
-> * Coming soon
+> * Possible final README update
+
+> * Updated the index
+
+> * Added the End of Life section
+
+> * Updated the release history section
+
+> * Updated the about section
+
+> * Updated the README file history section
 
 > * No other changes in version 5
 
-Version 6 (coming soon)
+Version 6 (possibly coming soon)
 
 > Changes:
 
-> * Coming soon
+> * Coming soon (possibly)
 
 > * No other changes in version 6
 
