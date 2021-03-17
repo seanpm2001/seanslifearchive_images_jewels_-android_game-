@@ -31,29 +31,33 @@
 
 [06.0 - Software status](#Software-status)
 
-[07.0 - Contributers](#Contributers)
+[07.0 - Sponsor info](#Sponsor-info)
 
-[08.0 - Issues](#Issues)
+[08.0 - Contributers](#Contributers)
 
-> [08.1 - Current issues](#Current-issues)
+[09.0 - Issues](#Issues)
 
-> [08.2 - Past issues](#Past-issues)
+> [09.1 - Current issues](#Current-issues)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+> [09.2 - Past issues](#Past-issues)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [09.3 - Past pull requests](#Past-pull-requests)
 
-[09.0 - Resources](#Resources)
+> [09.4 - Active pull requests](#Active-pull-requests)
 
-[10.0 - Contributing](#Contributing)
+[10.0 - Resources](#Resources)
 
-[11.0 - End of life (Monday, January 18th 2021)](#EOL)
+[11.0 - Contributing](#Contributing)
 
-[12.0 - About README](#About-README)
+[12.0 - End of life (Monday, January 18th 2021)](#EOL)
 
-[13.0 - README Version history](#README-version-history)
+[13.0 - About README](#About-README)
 
-[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[14.0 - README Version history](#README-version-history)
+
+[15.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+[15.5 - End of file](#EOF)
 
 ***
 
@@ -80,6 +84,20 @@ I continued to play for over half a month, finally retiring on January 18th 2021
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/wiki)
 
+If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+
+***
+
+## Sponsor info
+
+![SponsorButton.png](SponsorButton.png)
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
 ***
 
 ## Version history
@@ -98,11 +116,17 @@ I continued to play for over half a month, finally retiring on January 18th 2021
 
 ## Software status
 
-All of my works are free from restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works. This project does not contain any DRM
+All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
 
 ![DRM-free_label.en.svg](DRM-free_label.en.svg)
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+
+Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -110,7 +134,7 @@ This sticker is supported by the Free Software Foundation. I never intend to inc
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 782 commits (As of Monday, January 18th 2021 at 7:01 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 833 commits (As of Wednesday,  March 17th 2021 at 3:43 pm)
 
 > * 2. No other contributers.
 
@@ -122,19 +146,55 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 * [1: December 31st data uploaded incorrectly (and how to fix similar errors) #1 ](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/1)
 
+* [2: Sorted data for September & October 2020 is needed #4 ](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/4)
+
+* [3: December 2020 updates needed #5 ](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/5)
+
 * No other current issues
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
 
 ### Past issues
 
 None at the moment
 
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
+
 ### Past pull requests
 
 None at the moment
 
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
+
 ### Active pull requests
 
 None at the moment
+
+If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+
+[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+
+**TL;DR**
+
+I archive my own issues. Your issue won't be archived unless you request it to be archived.
 
 ***
 
@@ -174,15 +234,19 @@ I have now officially retired my old Samsung Galaxy S7 edge, and thus I have dis
 
 I may still make updates to this repository from time to time until then. Although, I am not returning to this game for a while.
 
+**March 17th 2021 update**
+
+I modernized the project a bit today, as I have been getting projects up to a new standard.
+
 ***
 
 ## About README
 
 File type: `Markdown (*.md)`
 
-File version: `5 (Monday, January 18th 2021 at 7:01 pm)`
+File version: `6 (Wednesday, March 17th 2021 at 3:43 pm)`
 
-Line count: `0,312`
+Line count: `0,404`
 
 ***
 
@@ -290,22 +354,50 @@ Version 5 (Monday, January 18th 2021 at 7:01 pm)
 
 > * Updated the about section
 
+> * Updated the footer
+
 > * Updated the README file history section
 
 > * No other changes in version 5
 
-Version 6 (possibly coming soon)
+Version 6 (Wednesday, March 17th 2021 at 3:43 pm)
+
+> Changes:
+
+> * Updated the index
+
+> * Updated the Wiki section
+
+> * Added the sponsor info section
+
+> * Bumped the software status section up to version 2
+
+> * Updated the current issues section
+
+> * Updated the end of life section
+
+> * Updated the contributors section
+
+> * Updated the about section
+
+> * Updated the README file history section
+
+> * No other changes in version 6
+
+Version 7 (possibly coming soon)
 
 > Changes:
 
 > * Coming soon (possibly)
 
-> * No other changes in version 6
+> * No other changes in version 7
 
 ***
 
 ### You have reached the end of the README file
 
 [Back to top](#Top) [Exit](https://github.com)
+
+### EOF
 
 ***
